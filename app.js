@@ -286,25 +286,14 @@ var records = [
                             {name:"北信源",desc:"中国终端安全管理市场领导者",href:"http://www.vrv.com.cn/"},
                             {name:"迪普科技",desc:"迪普科技",href:"http://www.dptech.com/"},
                             {name:"通付盾",desc:"专注金融科技安全",href:"https://www.tongfudun.com/"},
-                            { name: "", desc: "", href: ""},
-                        ]
-                    },
-                    {
-                        level: '后起之秀',
-                        items: [
                             { name: "长亭科技", desc: "长亭科技", href: "https://chaitin.cn/"},
                             { name: "默安科技", desc: "墨安科技", href: "https://www.moresec.cn/"},
                             { name: "白帽汇", desc: "专注于安全大数据 企业威胁情报", href: "http://www.baimaohui.net/"},
                             { name: "四叶草安全", desc: "四叶草安全", href: "http://www.seclover.com"},
                             { name: "", desc: "", href: ""},
-                            { name: "", desc: "", href: ""},
-                            { name: "", desc: "", href: ""},
-                            { name: "", desc: "", href: ""},
-                            { name: "", desc: "", href: ""},
-                            { name: "", desc: "", href: ""},
                         ]
                     },
-                    {
+                   {
                         level: '安全团队',
                         items: [
                             { name: "360 UnicornTeam", desc: "专注于使用无线电技术的所有领域的信息安全相关研究", href: "http://unicorn.360.cn"},
@@ -473,13 +462,6 @@ var records = [
                             // { name: "华西安全网密码泄露查询", desc: "华西安全网密码泄露查询", href: "http://cha.hx99.net/"},
 							// { name: "社工库密码查询", desc: "社工库密码查询", href: "http://163.donothackme.club/"},
 							{ name: "社工库", desc: "社工库", href: "https://haveibeenpwned.com/"},
-                            { name: "", desc: "", href: ""},
-                            { name: "", desc: "", href: ""},
-                        ]
-                    },
-                    {
-                        level: '桌面必备',
-                        items: [
                             { name: "", desc: "", href: ""},
                             { name: "", desc: "", href: ""},
                         ]
