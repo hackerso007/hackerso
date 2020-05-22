@@ -87,20 +87,17 @@ var FrontGuide = {
                 'Name': 'SecWiki',
                 'Title': '安全维基',
                 'Href': 'https://www.sec-wiki.com'
-            },
-            {
+            }, {
                 'Name': '梧桐百科',
                 'Title': '梧桐百科 - 碎片化知识学习',
                 'Href': 'https://tricking.io/',
                 "New": "1"
-            }，
-            {
+            }, {
                 'Name': '零组自资料文库',
                 'Title': '专注, 信息安全领域的技术研究',
                 'Href': 'https://wiki.0-sec.org',
                 "New": "1"
-            }，
-            ]
+            }]
         }, {
             "pageT2": "漏洞平台",
             "pageC2": [{
